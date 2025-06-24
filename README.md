@@ -20,6 +20,12 @@
 
 **2.** **Improving Business Strategies:** Insights reveal weaknesses in products or services, guiding data-driven improvements to enhance customer satisfaction, retention, and long-term growth.
 
+# Data Model
+![Alt text for the image](https://github.com/Midoford/Churn-Analysis/blob/main/3.png)
+
+# Dashboard Design
+![Alt text for the image](https://github.com/Midoford/Churn-Analysis/blob/main/2.png)
+
 ## Technical & Soft Skills
 **Technical Skills:**
 - [x] Proficiency in data wrangling and cleaning ensures raw data is transformed into a usable format using tools like Python.
