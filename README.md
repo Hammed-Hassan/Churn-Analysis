@@ -1,4 +1,7 @@
 # Churn Analysis Project
+
+Live Dashboard - [link](https://app.powerbi.com/view?r=eyJrIjoiNDg3MGQxYWQtMGRjNC00YzM2LWE5NWMtODM4YzUwNzRlNzk3IiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9)
+
 ## Churn Report
 **Project Objectives:**
 
