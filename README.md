@@ -31,23 +31,23 @@ Live Dashboard - [link](https://app.powerbi.com/view?r=eyJrIjoiNDg3MGQxYWQtMGRjN
 
 ### ✅Analysis & Key Insights
 - Churn Rate is 27.0% (1,732 customers out of 6,418 total).
-- Contract Risk: Month-to-Month contracts have the highest churn (46.5%) compared to Two-Year contracts (2.7%).
-- Primary Exit Reason: The top Churn Category is "Competitor" (761 customers).
-- High-Risk Services: Churn is exceptionally high for the Device Protection Plan (71.0%) and Internet Service (63.7%).
-- Geographic Hotspot: The state of Jammu has the highest Churn Rate at 57.2%.
+- Month-to-Month contracts have the highest churn (46.5%) compared to Two-Year contracts (2.7%).
+- The top Churn Category is "Competitor" (761 customers).
+- Churn is exceptionally high for the Device Protection Plan (71.0%) and Internet Service (63.7%).
+- The state of Jammu has the highest Churn Rate at 57.2%.
 
 #
 ### ✅Conclusion & Recommendation 
 Conclusion
-- Conclusion: High overall churn is driven by short-term contracts and a significant loss of customers to competitors, likely due to dissatisfaction with specific services (Fiber Optic, Device Protection).
-- Recommendation: Focus efforts on contract migration to stabilize the base and conduct immediate root-cause analysis on the poor-performing services.
+- High overall churn is driven by short-term contracts and a significant loss of customers to competitors, likely due to dissatisfaction with specific services (Fiber Optic, Device Protection).
+- Focus efforts on contract migration to stabilize the base and conduct immediate root-cause analysis on the poor-performing services.
 
 #
 ### ✅Recommendation
-- Contract Strategy: Implement aggressive incentives to move customers from Month-to-Month contracts to longer-term plans.
-- Quality Check: Immediately investigate the quality or cost of the Fiber Optic and Device Protection Plan services due to their high churn rates.
-- Targeted Retention: Initiate specific retention campaigns and service improvements in high-churn areas, starting with Jammu.
-- Payment Migration: Encourage a shift away from high-churn payment methods like Bank Withdrawal toward more automated options.
+- Implement aggressive incentives to move customers from Month-to-Month contracts to longer-term plans.
+- Immediately investigate the quality or cost of the Fiber Optic and Device Protection Plan services due to their high churn rates.
+- Initiate specific retention campaigns and service improvements in high-churn areas, starting with Jammu.
+- Encourage a shift away from high-churn payment methods like Bank Withdrawal toward more automated options.
 
 ## Technical & Soft Skills
 **Technical Skills:**
