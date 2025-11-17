@@ -27,7 +27,7 @@ Live Dashboard - [link](https://app.powerbi.com/view?r=eyJrIjoiNDg3MGQxYWQtMGRjN
 ![Alt text for the image](https://github.com/Midoford/Churn-Analysis/blob/main/3.png)
 
 # Dashboard Design
-![Alt text for the image](https://github.com/Midoford/Churn-Analysis/blob/main/2.png)
+![Alt text for the image](https://github.com/Hammed-Hassan/Churn-Analysis/blob/main/2-fotor-2025111714537.png)
 
 ### ✅Analysis & Key Insights
 - Churn Rate is 27.0% (1,732 customers out of 6,418 total).
